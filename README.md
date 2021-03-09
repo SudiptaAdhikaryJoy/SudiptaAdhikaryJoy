@@ -9,6 +9,11 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost 12 hours of listening songs everyday.
 
+## Skills & Experiences:
+* React
+* React Native
+* HTML, CSS, JS
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudiptaadhikaryjoy)](https://github.com/anuraghazra/github-readme-stats)
 
 
