@@ -9,3 +9,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost 12 hours of listening songs everyday.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudiptaadhikaryjoy)](https://github.com/anuraghazra/github-readme-stats)
+
+
