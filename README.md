@@ -20,9 +20,6 @@
  ## Language Uses
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptaadhikaryjoy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## WakaTime
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudiptaadhikaryjoy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
