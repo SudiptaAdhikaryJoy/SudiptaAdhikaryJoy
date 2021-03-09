@@ -14,8 +14,10 @@
 * React Native
 * HTML, CSS, JS
 
+## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudiptaadhikaryjoy&show_icons=true&theme=dracula)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SudiptaAdhikaryjoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sush005/)  
-
+ 
+ ## Language Uses:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptaadhikaryjoy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SudiptaAdhikaryjoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sush005/) 
