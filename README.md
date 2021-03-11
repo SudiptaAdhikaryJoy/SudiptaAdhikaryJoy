@@ -1,4 +1,4 @@
-### Guten Tag,I'm Sudipta Adhikary Joy👋
+### Namaste, I'm Sudipta Adhikary Joy👋
 
 - 🔭 I’m currently working on Javascript project
 - 🌱 I’m currently learning Javascript
