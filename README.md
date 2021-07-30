@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sudipta Adhikary Joy</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptaadhikaryjoy" alt="sudiptaadhikaryjoy" /></a> </p>
 
+<img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="itsirajul" /> </p>
+
 - 🔭 I’m currently working on HTML project
 - 🌱 I’m currently learning Full-Stack Web Development
 - 👯 I’m looking to collaborate on Web Develoepemt Project
