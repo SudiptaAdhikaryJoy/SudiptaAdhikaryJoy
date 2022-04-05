@@ -5,19 +5,19 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="itsirajul" /> </p>
 
-- 🔭 I’m currently working on HTML project
+- 🔭 I’m currently working on MERN Stack project
 - 🌱 I’m currently learning Full-Stack Web Development
 - 👯 I’m looking to collaborate on Web Develoepemt Project
-- 🤔 I’m looking for help with CSS3
+- 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me:  [Twitter - @sush0005](https://twitter.com/Sush0005)
+- 📫 How to reach me:  [Twitter - @Sudiptojo1](https://twitter.com/Sudiptojo1)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost 4 hours of listening songs everyday.
 
 ## Skills & Experiences
 * React
 * React Native
-* HTML, CSS, JS
+* HTML, CSS, JS, Bootstrap, Tailwind CSS
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
