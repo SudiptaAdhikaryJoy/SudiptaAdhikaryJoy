@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudipta Adhikary Joy</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptaadhikaryjoy" alt="sudiptaadhikaryjoy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sudiptojo1" target="blank"><img src="https://img.shields.io/twitter/follow/sudiptojo1?logo=twitter&style=for-the-badge" alt="sudiptojo1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sudiptajo1" target="blank"><img src="https://img.shields.io/twitter/follow/sudiptajo1?logo=twitter&style=for-the-badge" alt="sudiptajo1" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> 
