@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/itsirajul/itsirajul/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="itsirajul" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="sudiptaadhikaryjoy" /> </p>
 
 - 🔭 I’m currently working on MERN Stack project
 - 🌱 I’m currently learning Full-Stack Web Development
@@ -17,9 +17,9 @@
 - ⚡ Fun fact: I spend almost 4 hours of listening songs everyday.
 
 ## Skills & Experiences
-* React
-* React Native
-* HTML, CSS, JS, Bootstrap, Tailwind CSS
+* React, NextJs
+* Typescript
+* HTML, CSS, JS,Tailwind CSS, Ant Design, Material UI
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
