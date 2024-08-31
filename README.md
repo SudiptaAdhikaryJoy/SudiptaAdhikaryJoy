@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudipta Adhikary Joy</h1>
+<h1 align="center">Hi, I'm Sudipta</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptaadhikaryjoy" alt="sudiptaadhikaryjoy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sudiptajo1" target="blank"><img src="https://img.shields.io/twitter/follow/sudiptajo1?logo=twitter&style=for-the-badge" alt="sudiptajo1" /></a> </p>
@@ -7,19 +7,18 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="sudiptaadhikaryjoy" /> </p>
 
-- 🔭 I’m currently working on MERN Stack project
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning Full-Stack Web Development with Nextjs and NestJs and Postgresql
 - 👯 I’m looking to collaborate on Web Develoepemt Project
-- 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me:  [Twitter - @Sudiptojo1](https://twitter.com/Sudiptojo1)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I spend almost 4 hours of listening songs everyday.
+- ⚡ Fun fact: I loved to watch Insta Reels.
 
 ## Skills & Experiences
-* React, NextJs
-* Typescript
-* HTML, CSS, JS,Tailwind CSS, Ant Design, Material UI
+* ReactJs, NextJs,Redux Toolkit, NestJs
+* Typescript, JWT
+* HTML, CSS, JS,Tailwind CSS, Ant Design, Material UI, NextUI
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
