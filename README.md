@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="sudiptaadhikaryjoy" /> </p>
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Full-Stack Web Development with Nextjs and NestJs and Postgresql
+- 🌱 I’m currently learning Agentic AI system
 - 👯 I’m looking to collaborate on Web Develoepemt Project
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me:  [Twitter - @Sudiptojo1](https://twitter.com/Sudiptojo1)
