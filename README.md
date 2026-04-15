@@ -7,7 +7,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=itsirajul&label=Views&color=blue&style=plastic" alt="sudiptaadhikaryjoy" /> </p>
 
-- 🔭 I’m currently working on Frontend Development
+- 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Full-Stack Web Development with Nextjs and NestJs and Postgresql
 - 👯 I’m looking to collaborate on Web Develoepemt Project
 - 💬 Ask me about any tech related stuff
